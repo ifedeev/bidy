@@ -8,7 +8,7 @@
 	"minimum-stability": "dev",
 	"require": {
 		"php": "~7.1||~8.0",
-		"aimeos/aimeos-laravel": "~2021.07"
+		"aimeos/aimeos-laravel": "~2023.07"
 	},
 	"autoload": {
 		"psr-4": {
