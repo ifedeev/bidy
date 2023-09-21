@@ -1,5 +1,5 @@
 {
-	"name": "aimeos-themes/bidsystem",
+	"name": "ifedeev/bidsystem",
 	"description": "Aimeos bidsystem extension",
 	"keywords": ["aimeos", "extension"],
 	"type": "aimeos-extension",
